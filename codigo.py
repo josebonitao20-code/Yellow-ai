@@ -12,7 +12,7 @@ import streamlit as st
 from openai import OpenAI
 
 
-modelo_ia = OpenAI(api_key="AQ.Ab8RN6KFXBl2R1s8kOR0qKdXeV3dYBsvxdn1-bFgfvS7qmSg1A",
+modelo_ia = OpenAI(api_key="AQ.Ab8RN6J08w3X_mZ5_gq7CEp3lOW6cua1vzpTGFXCveFc_XSIVQ",
                    base_url="https://generativelanguage.googleapis.com/v1beta/openai")
 
 st.write("## Yellow AI (Alpha)")
